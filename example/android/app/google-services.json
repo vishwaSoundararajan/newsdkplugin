@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955996472147",
+    "project_id": "newsdkplugin",
+    "storage_bucket": "newsdkplugin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955996472147:android:41e9e584732d7dce0c57a6",
+        "android_client_info": {
+          "package_name": "com.example.newsdkplugin_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955996472147-37j1don9s0su3b5rei30lmtk7680aovo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],d
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYXbRgRyRvbhtUSvtqc8LFy9yeybGEYPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955996472147-37j1don9s0su3b5rei30lmtk7680aovo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
